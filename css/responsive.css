@@ -1,0 +1,33 @@
+@media (max-width: 991px) {
+    .img {
+        margin: 30px 0;
+        text-align: center;
+    }
+    .gift-box_footer .info-panel form input {
+        width: 100%;
+    }
+    .gift-box_footer .info-panel form a{
+        display: block;
+    }
+}
+@media (max-width: 480px) {
+    .gift-box_header {
+        padding: 10px 15px;
+    }
+    .gift-box_header h2 {
+        font-size: 22px;
+        line-height: 26px;
+        margin: 15px 0 8px 0;
+    }
+    .gift-box_header .last {
+        display: none;
+    }
+    .gift-box_footer .info, .gift-box_footer .info-panel {
+        padding: 12px 15px;
+    }
+    .gift-box_footer .info p {
+        font-size: 17px;
+        line-height: 25px;
+    }
+
+}
